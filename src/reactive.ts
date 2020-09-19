@@ -1,0 +1,1 @@
+const createReactive = (target: object) => {}
